@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rHarris4080
 - 👀 I’m interested in data science principles, insights, and practical suggestions to all things data science.
 - 🌱 I have just completed an online data science certificate program through Thinkful.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to deepen my data science knowledge as I seek a career change to a data role.
 - 📫 How to reach me: harris1401@gmail.com
 
 <!---
